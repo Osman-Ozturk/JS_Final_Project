@@ -19,7 +19,7 @@ In unserem Shop gibt es 5 verschiedene Laptops, 5 verschiedene Kopfhörer und 5 
 3) Öffnen das Terminal in VSC.
 4) Im Terminal installieren prompt-sync mit dem Befehl npm install prompt-sync
 5) Node index.js in das Terminal schreiben.
-6) Viel Spaß mit dem Spiel!
+6) Viel Spaß !
 
 ## Entwickler
 * Entwickelt von Osman Öztürk.
