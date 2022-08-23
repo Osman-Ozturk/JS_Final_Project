@@ -14,7 +14,7 @@ In unserem Shop gibt es 5 verschiedene Laptops, 5 verschiedene Kopfhörer und 5 
 
 
 ## installation
-1) Klonen in Github die Datei 
+1) Klonen in Github die Datei https://github.com/Osman-Ozturk/JS_Final_Project
 2) Öffnen die Datei index.js in VSC.
 3) Öffnen das Terminal in VSC.
 4) Im Terminal installieren prompt-sync mit dem Befehl npm install prompt-sync
